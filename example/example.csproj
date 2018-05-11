@@ -72,6 +72,7 @@
     <Content Include="typings.json" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bs-config.js" />
     <Content Include="index.html" />
   </ItemGroup>
   <ItemGroup>
