@@ -75,6 +75,7 @@
     <Content Include="app\template.html" />
     <Content Include="bs-config.js" />
     <Content Include="index.html" />
+    <Content Include="systemjs.config.js" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
