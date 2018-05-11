@@ -72,6 +72,7 @@
     <Content Include="typings.json" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\template.html" />
     <Content Include="bs-config.js" />
     <Content Include="index.html" />
   </ItemGroup>
@@ -85,6 +86,7 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="app\component.ts" />
     <TypeScriptCompile Include="app\datasource.model.ts" />
     <TypeScriptCompile Include="app\product.model.ts" />
     <TypeScriptCompile Include="app\repository.model.ts" />
