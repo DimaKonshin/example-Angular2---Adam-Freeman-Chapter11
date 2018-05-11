@@ -86,6 +86,7 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="app\app.module.ts" />
     <TypeScriptCompile Include="app\component.ts" />
     <TypeScriptCompile Include="app\datasource.model.ts" />
     <TypeScriptCompile Include="app\product.model.ts" />
