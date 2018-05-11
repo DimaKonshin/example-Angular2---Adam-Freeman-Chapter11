@@ -87,6 +87,7 @@
   <ItemGroup>
     <TypeScriptCompile Include="app\datasource.model.ts" />
     <TypeScriptCompile Include="app\product.model.ts" />
+    <TypeScriptCompile Include="app\repository.model.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
